@@ -42,7 +42,7 @@ Changes to be committed:
 	new file:   assignment-07/wei-liu-git-workflow.md
 
 ## Pull Request URL
-[Leave blank for now]
+https://github.com/WeiLiuSDE/cse632-0526/pull/1
 
 ## Latest Commit Hash
 0988f0153d874e14175a08b15afa9548835b6d0a
